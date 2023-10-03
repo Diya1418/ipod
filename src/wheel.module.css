@@ -1,0 +1,50 @@
+.wheelbox{
+    background-color: gray;
+    height: 300px;
+    width: 300px;
+    
+}
+
+.wheel{
+    background-color: white;
+    border-radius: 50%;
+}
+
+.menuimg{
+    height: 40px;
+    width: 40px;
+    position: absolute;
+    background-color: white;
+    margin-left: 245px;
+    margin-top: 100px;
+}
+
+.forwardimg{
+    height: 40px;
+    width: 40px;
+    position: absolute;
+    background-color: white;
+    margin-left: 245px;
+    margin-top: 100px;
+}
+
+.rewindimg{
+    height: 40px;
+    width: 40px;
+    position: absolute;
+    background-color: white;
+    margin-left: 5px;
+    margin-top: 100px;
+    
+}
+
+.playpauseimg{
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    background-color: white;
+    margin-top: 210px;
+    margin-left: 120px;
+   
+}
+
